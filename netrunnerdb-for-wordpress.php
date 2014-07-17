@@ -33,5 +33,5 @@ function nrdb_styles_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'nrdb_styles_scripts' );
 
-?>
+
 
